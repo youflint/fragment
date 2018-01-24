@@ -6,7 +6,7 @@
 
 * [Mix-in的Java伪代码](#Mix-in的Java伪代码)
 
-##Mix-in的Java伪代码
+## Mix-in的Java伪代码
 
 作者：松鼠奥利奥
 链接：https://www.zhihu.com/question/20778853/answer/42943272
